@@ -8,7 +8,7 @@
   
 
 ## General info 
-Simple Landing page created Bootstrap.
+Simple Landing page created with Bootstrap.
 
 ## Technologies
 * HTML
